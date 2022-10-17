@@ -1,5 +1,3 @@
-
-celsius = 37.5
 celsius = float(input('Enter temperature in Celsius: '))
 # calculate fahrenheit
 fahrenheit = (celsius * 1.8) + 32
